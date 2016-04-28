@@ -1,0 +1,19 @@
+c:\users\pozitif\documents\visual studio 2012\Projects\FanoOlusturanNoktalarAnaliz\FanoOlusturanNoktalarAnaliz\obj\Debug\FanoOlusturanNoktalarAnaliz.csprojResolveAssemblyReference.cache
+c:\users\pozitif\documents\visual studio 2012\Projects\FanoOlusturanNoktalarAnaliz\FanoOlusturanNoktalarAnaliz\obj\Debug\FanoOlusturanNoktalarAnaliz.Form1.resources
+c:\users\pozitif\documents\visual studio 2012\Projects\FanoOlusturanNoktalarAnaliz\FanoOlusturanNoktalarAnaliz\obj\Debug\FanoOlusturanNoktalarAnaliz.Properties.Resources.resources
+c:\users\pozitif\documents\visual studio 2012\Projects\FanoOlusturanNoktalarAnaliz\FanoOlusturanNoktalarAnaliz\obj\Debug\FanoOlusturanNoktalarAnaliz.csproj.GenerateResource.Cache
+c:\users\pozitif\documents\visual studio 2012\Projects\FanoOlusturanNoktalarAnaliz\FanoOlusturanNoktalarAnaliz\bin\Debug\FanoOlusturanNoktalarAnaliz.exe
+c:\users\pozitif\documents\visual studio 2012\Projects\FanoOlusturanNoktalarAnaliz\FanoOlusturanNoktalarAnaliz\bin\Debug\FanoOlusturanNoktalarAnaliz.pdb
+c:\users\pozitif\documents\visual studio 2012\Projects\FanoOlusturanNoktalarAnaliz\FanoOlusturanNoktalarAnaliz\obj\Debug\FanoOlusturanNoktalarAnaliz.exe
+c:\users\pozitif\documents\visual studio 2012\Projects\FanoOlusturanNoktalarAnaliz\FanoOlusturanNoktalarAnaliz\obj\Debug\FanoOlusturanNoktalarAnaliz.pdb
+c:\users\pozitif\documents\visual studio 2012\Projects\FanoOlusturanNoktalarAnaliz\FanoOlusturanNoktalarAnaliz\obj\Debug\FanoOlusturanNoktalarAnaliz.Form2.resources
+C:\Users\ayşe\Desktop\FanoOlusturanNoktalarAnaliz\FanoOlusturanNoktalarAnaliz\bin\Debug\FanoOlusturanNoktalarAnaliz.exe
+C:\Users\ayşe\Desktop\FanoOlusturanNoktalarAnaliz\FanoOlusturanNoktalarAnaliz\bin\Debug\FanoOlusturanNoktalarAnaliz.pdb
+C:\Users\ayşe\Desktop\FanoOlusturanNoktalarAnaliz\FanoOlusturanNoktalarAnaliz\obj\Debug\FanoOlusturanNoktalarAnaliz.Form1.resources
+C:\Users\ayşe\Desktop\FanoOlusturanNoktalarAnaliz\FanoOlusturanNoktalarAnaliz\obj\Debug\FanoOlusturanNoktalarAnaliz.Form2.resources
+C:\Users\ayşe\Desktop\FanoOlusturanNoktalarAnaliz\FanoOlusturanNoktalarAnaliz\obj\Debug\FanoOlusturanNoktalarAnaliz.Form3.resources
+C:\Users\ayşe\Desktop\FanoOlusturanNoktalarAnaliz\FanoOlusturanNoktalarAnaliz\obj\Debug\FanoOlusturanNoktalarAnaliz.Properties.Resources.resources
+C:\Users\ayşe\Desktop\FanoOlusturanNoktalarAnaliz\FanoOlusturanNoktalarAnaliz\obj\Debug\FanoOlusturanNoktalarAnaliz.csproj.GenerateResource.Cache
+C:\Users\ayşe\Desktop\FanoOlusturanNoktalarAnaliz\FanoOlusturanNoktalarAnaliz\obj\Debug\FanoOlusturanNoktalarAnaliz.exe
+C:\Users\ayşe\Desktop\FanoOlusturanNoktalarAnaliz\FanoOlusturanNoktalarAnaliz\obj\Debug\FanoOlusturanNoktalarAnaliz.pdb
+C:\Users\ayşe\Desktop\FanoOlusturanNoktalarAnaliz\FanoOlusturanNoktalarAnaliz\obj\Debug\FanoOlusturanNoktalarAnaliz.csprojResolveAssemblyReference.cache

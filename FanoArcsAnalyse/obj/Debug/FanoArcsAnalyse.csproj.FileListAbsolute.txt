@@ -1,0 +1,22 @@
+C:\Users\ayşe\Desktop\FanoOlusturanNoktalarAnaliz\FanoOlusturanNoktalarAnaliz\bin\Debug\FanoArcsAnalyse.exe
+C:\Users\ayşe\Desktop\FanoOlusturanNoktalarAnaliz\FanoOlusturanNoktalarAnaliz\bin\Debug\FanoArcsAnalyse.pdb
+C:\Users\ayşe\Desktop\FanoOlusturanNoktalarAnaliz\FanoOlusturanNoktalarAnaliz\obj\Debug\FanoArcsAnalyse.csprojResolveAssemblyReference.cache
+C:\Users\ayşe\Desktop\FanoOlusturanNoktalarAnaliz\FanoOlusturanNoktalarAnaliz\obj\Debug\FanoOlusturanNoktalarAnaliz.Form1.resources
+C:\Users\ayşe\Desktop\FanoOlusturanNoktalarAnaliz\FanoOlusturanNoktalarAnaliz\obj\Debug\FanoOlusturanNoktalarAnaliz.Form2.resources
+C:\Users\ayşe\Desktop\FanoOlusturanNoktalarAnaliz\FanoOlusturanNoktalarAnaliz\obj\Debug\FanoOlusturanNoktalarAnaliz.Form3.resources
+C:\Users\ayşe\Desktop\FanoOlusturanNoktalarAnaliz\FanoOlusturanNoktalarAnaliz\obj\Debug\FanoArcsAnalyse.Properties.Resources.resources
+C:\Users\ayşe\Desktop\FanoOlusturanNoktalarAnaliz\FanoOlusturanNoktalarAnaliz\obj\Debug\FanoArcsAnalyse.csproj.GenerateResource.Cache
+C:\Users\ayşe\Desktop\FanoOlusturanNoktalarAnaliz\FanoOlusturanNoktalarAnaliz\obj\Debug\FanoArcsAnalyse.exe
+C:\Users\ayşe\Desktop\FanoOlusturanNoktalarAnaliz\FanoOlusturanNoktalarAnaliz\obj\Debug\FanoArcsAnalyse.pdb
+C:\Users\ayşe\Desktop\FanoArcsAnalyse\FanoArcsAnalyse\obj\Debug\FanoArcsAnalyse.exe
+C:\Users\ayşe\Desktop\FanoArcsAnalyse\FanoArcsAnalyse\obj\Debug\FanoArcsAnalyse.pdb
+C:\Users\User\Desktop\FANO YAZILIMLARI\FanoArcsAnalyse\FanoArcsAnalyse\FanoArcsAnalyse\obj\Debug\FanoArcsAnalyse.exe
+C:\Users\User\Desktop\FANO YAZILIMLARI\FanoArcsAnalyse\FanoArcsAnalyse\FanoArcsAnalyse\obj\Debug\FanoArcsAnalyse.pdb
+C:\Users\User\Desktop\FANO YAZILIMLARI\FanoArcsAnalyse\FanoArcsAnalyse\FanoArcsAnalyse\bin\Debug\FanoArcsAnalyse.exe
+C:\Users\User\Desktop\FANO YAZILIMLARI\FanoArcsAnalyse\FanoArcsAnalyse\FanoArcsAnalyse\obj\Debug\FanoArcsAnalyse.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\FANO YAZILIMLARI\FanoArcsAnalyse\FanoArcsAnalyse\FanoArcsAnalyse\obj\Debug\FanoOlusturanNoktalarAnaliz.Form1.resources
+C:\Users\User\Desktop\FANO YAZILIMLARI\FanoArcsAnalyse\FanoArcsAnalyse\FanoArcsAnalyse\obj\Debug\FanoOlusturanNoktalarAnaliz.Form2.resources
+C:\Users\User\Desktop\FANO YAZILIMLARI\FanoArcsAnalyse\FanoArcsAnalyse\FanoArcsAnalyse\obj\Debug\FanoOlusturanNoktalarAnaliz.Form3.resources
+C:\Users\User\Desktop\FANO YAZILIMLARI\FanoArcsAnalyse\FanoArcsAnalyse\FanoArcsAnalyse\obj\Debug\FanoArcsAnalyse.Properties.Resources.resources
+C:\Users\User\Desktop\FANO YAZILIMLARI\FanoArcsAnalyse\FanoArcsAnalyse\FanoArcsAnalyse\obj\Debug\FanoArcsAnalyse.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\FANO YAZILIMLARI\FanoArcsAnalyse\FanoArcsAnalyse\FanoArcsAnalyse\bin\Debug\FanoArcsAnalyse.pdb
