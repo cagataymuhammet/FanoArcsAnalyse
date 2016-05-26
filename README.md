@@ -1,2 +1,2 @@
 # FanoArcsAnalyse
-FanoArcsAnalyse for Pprojective Geometry
+FanoArcsAnalyse for Projective Geometry
