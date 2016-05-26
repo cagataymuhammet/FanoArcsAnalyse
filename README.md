@@ -1,2 +1,2 @@
 # FanoArcsAnalyse
-FanoArcsAnalyse for Fractal Geometry
+FanoArcsAnalyse for Pprojective Geometry
